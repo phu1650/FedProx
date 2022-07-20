@@ -1,0 +1,14 @@
+'100':'FedAvg_both_full_data'
+'104':'FedProx_both_full_data'
+'123': 'FedAvg_index_split_epoch10'
+'125': 'FedProx_index_split_epoch10'
+'132': 'FedAvg_index_split_epoch10_40rounds'
+'133': 'FedProx_index_split_epoch10_40rounds'
+
+normalize = (0.1307,), (0.3081,)
+'135': Fed_avg_num_round_2 
+'136': Fed_avg_num_round_10
+'137': Fed_avg_num_round_40
+'139': Fed_prox_num_round_2
+'140': Fed_prox_num_round_10
+
