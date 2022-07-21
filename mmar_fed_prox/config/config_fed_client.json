@@ -5,7 +5,7 @@
     {
       "tasks": ["train", "submit_model"],
       "executor": {
-        "path": "cifar10trainer_split_by_index.Cifar10Trainer",
+        "path": "cifar10trainer_class_imbalance.Cifar10Trainer",
         "args": {
           "lr": 0.01,
           "epochs": 10
